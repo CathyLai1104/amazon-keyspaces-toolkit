@@ -9,7 +9,7 @@ version = TLSv1_2
 
 [copy]
 NUMPROCESSES=4
-MAXATTEMPTS=10
+MAXATTEMPTS=1
 
 [copy-from]
 CHUNKSIZE=100
